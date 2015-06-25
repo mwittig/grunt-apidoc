@@ -33,7 +33,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc": "*"
+    "apidoc": "0.12.x"
   },
   "devDependencies": {
     "grunt-contrib-clean": "~0.6.0",
